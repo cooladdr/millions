@@ -2,7 +2,7 @@ package dispatcher
 
 import (
 	"fmt"
-	"github.com/cooladdr/millionps/worker"
+	"millions/worker"
 )
 
 //

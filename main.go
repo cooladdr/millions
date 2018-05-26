@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/cooladdr/millionps/dispatcher"
-	"github.com/cooladdr/millionps/worker"
+	"millions/dispatcher"
+	"millions/worker"
 	"log"
 	"net/http"
 	"os"
